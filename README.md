@@ -20,7 +20,7 @@ The project team used data from the 911 call center and dispatch data, as well a
 Read our [How We Did It](https://docs.google.com/document/d/18lVYPaC9WvC0BVh2I9HAG6ms6glkWSR7TlYbrkBqxd4/edit?usp=sharing) guide to learn about this project from start to finish.
 
 ### Training & Eduction Materials
-The GovEx team provided [feedback](https://github.com/govex/Fort_Lauderdale/blob/master/FTLAnalysisResponse.pdf) to our original FTL partners' analysis of the demand for Fire/Rescue services.
+The GovEx team provided [feedback](https://github.com/govex/Fort_Lauderdale/blob/master/FTLAnalysisResponse.pdf) to [an analysis](https://drive.google.com/a/datapolitan.com/file/d/0BySY18Lbirv3dHdjTmVTVGpHckU/view?usp=sharing) of Fire/Rescue services demand conducted by our original FTL partners on the city's Structural Innovation team.
 
 The GovEx team also conducted an on-site 3-day training for staff in the City Manager’s office, IT Dept. and the Fire Dept. to map the intake and dispatch process, analyze trends, and identify key drivers of call volumes. The team also looked at the relationships between demand for fire services and other variables, like: population, tourism, occupancy,and demand for other city services. All of the training materials are available [here](https://docs.google.com/presentation/d/1IfwyClQRiI6h2iRpG61binkWdw03AGsrcsarV0HP3IM/edit?usp=sharing)
 
