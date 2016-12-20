@@ -6,6 +6,9 @@ The Center for Government Excellence (GovEx) collaborated with the City of Fort 
 
 ## Understanding the Demand for Fire Rescue Services 
 
+### Project Summary
+[One page summary of this project](https://github.com/govex/Fort_Lauderdale/blob/master/FTL_One_Pager_Fire_FINAL.pdf)
+
 ### Data
 The project team used data from the 911 call center and dispatch data, as well as publicly-available data on demographics, transportation and tourism. 
 * [Permanent Population](www.bebr.ufl.edu/population/data)
@@ -19,10 +22,10 @@ Read our [How We Did It](https://docs.google.com/document/d/18lVYPaC9WvC0BVh2I9H
 ### Training Materials
 The team conducted an on-site 3-day training for staff in the City Manager’s office, IT Dept. and the Fire Dept. to map the intake and dispatch process, analyze trends, and identify key drivers of call volumes. The team also looked at the relationships between demand for fire services and other variables, like: population, tourism, occupancy,and demand for other city services. All of the training materials are available [here](https://docs.google.com/presentation/d/1IfwyClQRiI6h2iRpG61binkWdw03AGsrcsarV0HP3IM/edit?usp=sharing)
 
-### Communication Materials
-[One page summary of this project](https://github.com/govex/Fort_Lauderdale/blob/master/FTL_One_Pager_Fire_FINAL.pdf)
-
 ## Assessing Public Safety as a Function of Street Lighting
+
+### Project Summary
+[One page summary of this project](https://github.com/govex/Fort_Lauderdale/blob/master/FTL_One_Pager_Lights_FINAL.pdf)
 
 ### Data
 [GIS Data for Broward County](http://gis.broward.org/GISData.htm) contains information about Fort Lauderdale’s city boundaries, state roads, and Broward County address points.
@@ -31,9 +34,6 @@ Locations of streetlights, Fort Lauderdale Neighbor Surveys (2012 - 2015), and p
 
 ### How We Did It
 Read our [How We Did It](https://docs.google.com/document/d/1IChajuJ14C9DXaPCp7wR7JKZakl9OTJmufwj404X4mQ/edit?usp=sharing) guide to learn about this project from start to finish.
-
-### Communication Materials
-[One page summary of this project](https://github.com/govex/Fort_Lauderdale/blob/master/FTL_One_Pager_Lights_FINAL.pdf)
 
 ### Contact
 If you would like more information about either of these projects, please contact govex@jhu.edu.
