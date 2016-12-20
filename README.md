@@ -33,7 +33,7 @@ Locations of streetlights, Fort Lauderdale Neighbor Surveys (2012 - 2015), and p
 Read our [How We Did It](https://docs.google.com/document/d/1IChajuJ14C9DXaPCp7wR7JKZakl9OTJmufwj404X4mQ/edit?usp=sharing) guide to learn about this project from start to finish.
 
 ### Communication Materials
-[One page summary of this project](https://drive.google.com/file/d/0B9eOOc60hbhLek9MSTZTeUc4LWs/view?usp=sharing)
+[One page summary of this project](https://github.com/govex/Fort_Lauderdale/blob/master/FTL_One_Pager_Lights_FINAL.pdf)
 
 ### Contact
 If you would like more information about either of these projects, please contact govex@jhu.edu.
