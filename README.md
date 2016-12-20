@@ -18,9 +18,6 @@ Read our [How We Did It](https://github.com/govex/Jackson/blob/master/Jackson%20
 ### Communication Materials
 
 
-### Contact
-If you would like more information, please contact govex@jhu.edu.
-
 ## Assessing Public Safety as a Function of Street Lighting
 
 ### Dataset
@@ -33,4 +30,4 @@ Read our [How We Did It](https://github.com/govex/Jackson/blob/master/Jackson%20
 
 
 ### Contact
-If you would like more information, please contact govex@jhu.edu.
+If you would like more information about either of these projects, please contact govex@jhu.edu.
