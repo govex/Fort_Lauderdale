@@ -20,7 +20,7 @@ Read our [How We Did It](https://docs.google.com/document/d/18lVYPaC9WvC0BVh2I9H
 The team conducted an on-site 3-day training for staff in the City Manager’s office, IT Dept. and the Fire Dept. to map the intake and dispatch process, analyze trends, and identify key drivers of call volumes. The team also looked at the relationships between demand for fire services and other variables, like: population, tourism, occupancy,and demand for other city services. All of the training materials are available [here](https://docs.google.com/presentation/d/1IfwyClQRiI6h2iRpG61binkWdw03AGsrcsarV0HP3IM/edit?usp=sharing)
 
 ### Communication Materials
-[One page summary of this project](https://drive.google.com/file/d/0B9eOOc60hbhLaUdyb3FrcFgwZnM/view?usp=sharing)
+[One page summary of this project](https://github.com/govex/Fort_Lauderdale/blob/master/FTL_One_Pager_Fire_FINAL.pdf)
 
 ## Assessing Public Safety as a Function of Street Lighting
 
