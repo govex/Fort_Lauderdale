@@ -1,6 +1,6 @@
 # Analytics Kickstart Projects in Fort Lauderdale, FL
 
-The Center for Government Excellence (GovEx) collaborated with the City of Fort Lauderdale, FL to help city on two fronts:
+The Center for Government Excellence (GovEx) collaborated with the City of Fort Lauderdale, FL on two fronts:
 * Understanding of the demand for Fire Rescue Services
 * Assessing public safety as a function of street lighting
 
