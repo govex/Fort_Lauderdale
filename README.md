@@ -35,7 +35,7 @@ The GovEx team also conducted an on-site 3-day training for staff in the City Ma
 Locations of streetlights, Fort Lauderdale Neighbor Surveys (2012 - 2015), and public safety data were provided by the city, insofar as they were able. Public safety data in particular was sent as password-protected Excel files in an abundance of caution over personally identifiable information (PII). Analysis done using web-based CARTO was also protected using CARTO’s built-in privacy tools. 
 
 ### How We Did It
-Read our [How We Did It](https://docs.google.com/document/d/1IChajuJ14C9DXaPCp7wR7JKZakl9OTJmufwj404X4mQ/edit?usp=sharing) guide to learn about this project from start to finish.
+Read our [How We Did It](https://github.com/govex/Fort_Lauderdale/blob/master/HowWeDidIt-FortLauderdaleFL-B.pdf) guide to learn about this project from start to finish.
 
 ### Contact
 If you would like more information about either of these projects, please contact govex@jhu.edu.
