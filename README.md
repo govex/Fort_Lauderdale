@@ -1,12 +1,12 @@
 # Analytics Kickstart Projects in Fort Lauderdale, FL
 
 The Center for Government Excellence (GovEx) collaborated with the City of Fort Lauderdale, FL to help city on two fronts:
-* Enhancing the city's understanding of the demand for Fire Rescue Services
+* Understanding of the demand for Fire Rescue Services
 * Assessing public safety as a function of street lighting
 
 ## Understanding the Demand for Fire Rescue Services 
 
-### Datasets
+### Data
 The project team used data from the 911 call center and dispatch data, as well as publicly-available data on demographics, transportation and tourism. 
 * [Permanent Population](www.bebr.ufl.edu/population/data)
 * [Tourist Population: Broward County Convention and Visitors Bureau](http://sunny.org/vital-stats/)
@@ -24,14 +24,16 @@ The team conducted an on-site 3-day training for staff in the City Manager’s o
 
 ## Assessing Public Safety as a Function of Street Lighting
 
-### Dataset
-[Compared_to_Jackson.xlsx](/Compared_to_Jackson.xlsx) is a compilation of budget information from six U.S. cities. The budget data was hand-collected and tranformed into a standard format for analysis.
+### Data
+[GIS Data for Broward County](http://gis.broward.org/GISData.htm) contains information about Fort Lauderdale’s city boundaries, state roads, and Broward County address points.
+
+Locations of streetlights, Fort Lauderdale Neighbor Surveys (2012 - 2015), and public safety data were provided by the city, insofar as they were able. Public safety data in particular was sent as password-protected Excel files in an abundance of caution over personally identifiable information (PII). Analysis done using web-based CARTO was also protected using CARTO’s built-in privacy tools. 
 
 ### How We Did It
-Read our [How We Did It](https://github.com/govex/Jackson/blob/master/Jackson%20-%20How%20We%20Did%20It.pdf) guide to learn about this project from start to finish.
+Read our [How We Did It](https://docs.google.com/document/d/1IChajuJ14C9DXaPCp7wR7JKZakl9OTJmufwj404X4mQ/edit?usp=sharing) guide to learn about this project from start to finish.
 
 ### Communication Materials
-
+[One page summary of this project](https://drive.google.com/file/d/0B9eOOc60hbhLek9MSTZTeUc4LWs/view?usp=sharing)
 
 ### Contact
 If you would like more information about either of these projects, please contact govex@jhu.edu.
